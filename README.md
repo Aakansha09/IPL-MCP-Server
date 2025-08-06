@@ -1,3 +1,6 @@
+<img width="1293" height="904" alt="image" src="https://github.com/user-attachments/assets/2b6dd0c9-11e8-4656-aca3-d1cb919a477c" />
+<img width="1728" height="935" alt="image" src="https://github.com/user-attachments/assets/ed12d5ed-54ab-412d-9526-75b081544177" />
+
 # IPL MCP Server 🏏
 
 A Model Context Protocol (MCP) server that provides detailed IPL cricket statistics from ball-by-ball match data. This server allows AI assistants to query comprehensive cricket data including teams, players, matches, ball-by-ball details, and performance statistics.
