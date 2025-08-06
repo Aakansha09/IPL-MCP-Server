@@ -1,0 +1,14 @@
+# Core dependencies for IPL MCP Server
+sqlite3  # Built-in with Python, included for clarity
+asyncio  # Built-in with Python, included for clarity
+
+# Optional dependencies for enhanced functionality
+flask>=2.3.0  # For web interface (if needed)
+# requests>=2.31.0  # For API calls (if needed)
+# pandas>=2.0.0  # For data analysis (if needed)
+# numpy>=1.24.0  # For numerical operations (if needed)
+
+# Development dependencies
+# pytest>=7.4.0  # For testing
+# black>=23.0.0  # For code formatting
+flake8>=6.0.0  # For linting

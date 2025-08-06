@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run IPL MCP Server",
+			"type": "shell",
+			"command": "/Users/aakanshasrivastava/ipl-mcp-server/.venv/bin/python",
+			"args": [
+				"server/app.py"
+			],
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

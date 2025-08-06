@@ -1,0 +1,19 @@
+
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/aakanshasrivastava/Desktop",
+        "/Users/aakanshasrivastava/Downloads"
+      ]
+    },
+    "ipl-mcp-server": {
+      "command": "/Users/aakanshasrivastava/ipl-mcp-server/.venv/bin/python",
+      "args": ["/Users/aakanshasrivastava/ipl-mcp-server/server/app.py"],
+      "env": {}
+    }
+  }
+}

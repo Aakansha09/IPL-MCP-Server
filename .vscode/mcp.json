@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "ipl-mcp-server": {
+      "type": "stdio",
+      "command": "/Users/aakanshasrivastava/ipl-mcp-server/.venv/bin/python",
+      "args": ["/Users/aakanshasrivastava/ipl-mcp-server/server/app.py"]
+    }
+  }
+}
